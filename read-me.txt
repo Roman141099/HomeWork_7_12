@@ -1,0 +1,4 @@
+used JDK-15
+run command: java -jar HW.jar args[0] args[1]
+
+
